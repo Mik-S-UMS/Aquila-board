@@ -17,3 +17,6 @@ Rev B
 -updated the SDcard circuit as it was not clear if the 7 white components were capacitos or resistors as there were no markings or silkscreen. Seeing a similar circuit for SDcard from something else makes more sense these are capacitors.
 
 -Tidied up some things.
+
+I also added the FFP1073_Connect_Board_V1.0.0 for the inductive sensor on the X3 and S3.
+This was done from pictures so cannot verify it is correct.
