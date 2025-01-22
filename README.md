@@ -1,4 +1,4 @@
-Aquila main board v1.0.3 reverse engineered
+Aquila main board FFP0173_Aquila_Main_Board_V1.0.3 reverse engineered.
 
 
 This board has the H32 chip but I suspect it will be almost identical for the GD32 and N32 chips with the exception of the reserved extruder sensor port and a few minor layout changes.
