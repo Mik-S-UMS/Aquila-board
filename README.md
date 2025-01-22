@@ -14,7 +14,7 @@ There are unpopulated components and I have added then when I can but have no id
 
 Rev B 
 
--updated the SDcard circuit as it was not clear if the 7 white components were capacitos or resistors as there were no markings or silkscreen. Seeing a similar circuit for SDcard from something else makes more sense these are capacitors.
+-updated the SDcard circuit as it was not clear if the 7 white components were capacitors or resistors as there were no markings or silkscreen. Seeing a similar circuit for SDcard from something else makes more sense these are capacitors.
 
 -Tidied up some things.
 
